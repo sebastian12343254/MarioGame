@@ -48,3 +48,9 @@ setMoleTimer = new Timer(1000, e -> {
     currMoleTile = moleTile;
     moleTile.setIcon(moleIcon);
 });
+```
+
+## Guía de Inicio
+Clonar: git clone https://github.com/sebastian12343254/MarioGame
+
+Compilar en tu editor favorito
