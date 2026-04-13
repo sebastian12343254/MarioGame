@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./7.png" width="50"> 
+<img width="576" height="637" alt="7" src="https://github.com/user-attachments/assets/ed5aa009-ad65-4109-ba2e-00f26e6c1927" />
 
 </div>
 
@@ -25,8 +25,8 @@ El juego utiliza `javax.swing.Timer` para gestionar las apariciones aleatorias d
 
 | Elemento | Acción | Puntos |
 | :---: | :--- | :---: |
-| <img src="./monty.png" width="50"> | **Atrapar a Monty** | `+1` |
-| <img src="./piranha.png" width="50"> | **Tocar la Planta** | `-1` |
+| <img width="175" height="175" alt="monty" src="https://github.com/user-attachments/assets/baf783cc-e8c3-424f-abe3-98750a308036" /> | **Atrapar a Monty** | `+1` |
+| <img width="175" height="175" alt="piranha" src="https://github.com/user-attachments/assets/5b1a47bc-817e-4ab2-b287-7d4915821726" /> | **Tocar la Planta** | `-1` |
 
 * **Velocidad Variable:** El topo aparece cada 1000ms, mientras que la planta aparece cada 1500ms.
 * **Sistema de Red**: Tablero de 3x3 generado con `GridLayout`.
